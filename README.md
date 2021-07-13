@@ -4,14 +4,14 @@ iOS Developer and small business consultant.
 
 Check out my repos for implementations of:
 
-UIKit
-SwiftUI
-RealityKit/ARKit
-CloudKit
-MapKit
-Realm
-CoreData
-Firebase
+-UIKit
+-SwiftUI
+-RealityKit/ARKit
+-CloudKit
+-MapKit
+-Realm
+-CoreData
+-Firebase
 
 ...and more!
 
